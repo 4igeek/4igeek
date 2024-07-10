@@ -1,6 +1,6 @@
 <img src="https://digitalredneck.co.uk/linkedin_topper.jpeg" />
 
-My name is Vil and I'm into Machine Learning; welcome to my github page. 
+Hi my name is Vil 👋 and I'm into Machine Learning; welcome to my github page. 
 
 I have recently completed my <strong>BSc (Hons) in Artificial Intelligence</strong> at the university of Kent and am currently looking for work as a data scientist or specifically something to do with MLOps.
 
