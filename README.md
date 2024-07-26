@@ -7,5 +7,3 @@ I have recently completed my <strong>BSc (Hons) in Artificial Intelligence</stro
 If you're interested, I have a blog where I write about stuff that I'm working on or learning. You can find that by visiting <a href="https://digitalredneck.co.uk" target="_blank">Digital Redneck</a>.
 
 Alternatively you can have a little look at some of the projects that I have worked on (not all of them are there yet).
-
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://youtu.be/dQw4w9WgXcQ)
