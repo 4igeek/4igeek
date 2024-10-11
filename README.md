@@ -1,6 +1,6 @@
 <img src="https://digitalredneck.co.uk/linkedin_topper.jpeg" />
 
-<h3>Hi my name is Vil 👋 and I'm into Machine Learning 🤖 and developing awesome web applications 🚀</h3>
+<h3>Hi my name is Vil 👋 and I'm into Machine Learning 🤖 and Developing Awesome Web Applications 🚀</h3>
 
 I have recently completed my <strong>BSc (Hons) in Artificial Intelligence</strong> at the university of Kent..
 
